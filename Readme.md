@@ -2,6 +2,8 @@
 
 The main idea is to have a simple reminder for viewers to Subscribe to my Youtube channel: https://www.youtube.com/channel/UC67B8pLNSq_sGWgGyllxOww
 
+![](presentation.gif)
+
 ## Animation
 
 Made a sequence of String arrays to represent animation frames, simple timer to loop.
